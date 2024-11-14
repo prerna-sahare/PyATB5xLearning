@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ef1a1cf-367e-44be-8e60-857dd220f107" name="Changes" comment="new file added">
+      <change afterPath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Python_Literals/Lb_032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/LB_030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/LB_031_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/LB_032_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/LB_040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb_027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb_028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb_029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb_033_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb_034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb_035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb_036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb_037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb_038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb_039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb_041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb_042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb_043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lb_044.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;prerna-sahare&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/prerna-sahare/PyATB5xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;71071db9-767e-4a9a-9f6d-a356206a841a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2oh3PAZRKbH48BNeWulz0vhbgnb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.LB_030.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LB_031_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LB_032_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LB_040.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001_Python_HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002_Pythonbasic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_Python_basic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004_Python_Key_Indentifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005_Keywords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lb008_dynamically_type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb024.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lb025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_033_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_034.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_035.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_036.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_037.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_038.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_039.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_041.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_042.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_043.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_044.executor&quot;: &quot;Run&quot;,
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.Lab003_Python_basic">
+    <configuration name="Lab003_Python_basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_11112024_Python_Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_11112024_Python_Basic/Lab003_Python_basic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lb022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024_Python_Literals" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024_Python_Literals/Lb022.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lb022" />
+        <item itemvalue="Python.Lab003_Python_basic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ef1a1cf-367e-44be-8e60-857dd220f107" name="Changes" comment="" />
+      <created>1731307953301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731307953301</updated>
+    </task>
+    <task id="LOCAL-00001" summary="new file added">
+      <option name="closed" value="true" />
+      <created>1731347280173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731347280173</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new file added" />
+  </component>
+</project>
