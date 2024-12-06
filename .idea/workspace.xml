@@ -5,16 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef1a1cf-367e-44be-8e60-857dd220f107" name="Changes" comment="new file added">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024/Lab045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024/Lab045_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024/Lab046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024/Lab047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab052_task_triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab53_task_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab058_part-functions1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab062_function_within_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab063_with_argument.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab065_function_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab066_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab069_function_n_variabels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab070_Local_variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab071_inner_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab072_decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab074_without_deco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab076_leap_year_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab086_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab089tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab093_set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +103,42 @@
     "Python.Lab050.executor": "Run",
     "Python.Lab051.executor": "Run",
     "Python.Lab052_task_trianle.executor": "Run",
+    "Python.Lab054.executor": "Run",
+    "Python.Lab055.executor": "Run",
+    "Python.Lab056.executor": "Run",
+    "Python.Lab057.executor": "Run",
+    "Python.Lab058_part-functions1.executor": "Run",
+    "Python.Lab059.executor": "Run",
+    "Python.Lab060.executor": "Run",
+    "Python.Lab061.executor": "Run",
+    "Python.Lab062.executor": "Run",
+    "Python.Lab063_.executor": "Run",
+    "Python.Lab063_with_argument.executor": "Run",
+    "Python.Lab064.executor": "Run",
+    "Python.Lab065_function_type.executor": "Run",
+    "Python.Lab066_IQ.executor": "Run",
+    "Python.Lab067.executor": "Run",
+    "Python.Lab068.executor": "Run",
+    "Python.Lab069_function_n_variabels.executor": "Run",
+    "Python.Lab070_Local_variable.executor": "Run",
+    "Python.Lab071_inner_functions.executor": "Run",
+    "Python.Lab072_decorators.executor": "Run",
+    "Python.Lab073.executor": "Run",
+    "Python.Lab074_without_deco.executor": "Run",
+    "Python.Lab075.executor": "Run",
+    "Python.Lab080.executor": "Run",
+    "Python.Lab081.executor": "Run",
+    "Python.Lab083.executor": "Run",
+    "Python.Lab084.executor": "Run",
+    "Python.Lab085.executor": "Run",
+    "Python.Lab086_list.executor": "Run",
+    "Python.Lab087.executor": "Run",
+    "Python.Lab088.executor": "Run",
+    "Python.Lab089tuple.executor": "Run",
+    "Python.Lab090.executor": "Run",
+    "Python.Lab091.executor": "Run",
+    "Python.Lab092.executor": "Run",
+    "Python.Lab093_set.executor": "Run",
     "Python.Lab53_task.executor": "Run",
     "Python.Lb008_dynamically_type.executor": "Run",
     "Python.Lb009.executor": "Run",
@@ -141,6 +204,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab057" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_16112024_Loop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab057.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Lb022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -165,8 +250,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lb022" />
         <item itemvalue="Python.Lab003_Python_basic" />
+        <item itemvalue="Python.Lab057" />
+        <item itemvalue="Python.Lb022" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731578106628</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new file added">
+      <option name="closed" value="true" />
+      <created>1731944165264</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731944165264</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
