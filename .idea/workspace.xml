@@ -5,43 +5,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef1a1cf-367e-44be-8e60-857dd220f107" name="Changes" comment="new file added">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab058_part-functions1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab062_function_within_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab063_with_argument.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab065_function_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab066_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab069_function_n_variabels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab070_Local_variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab071_inner_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab072_decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab074_without_deco.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab076_leap_year_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab086_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab088.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab089tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab090.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab091.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab092.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab093_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024/test_Lab187_pytest_learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024/ex_10122024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024/ex_10122024/modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024/test_lab052_pytestlearn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024/test_lab053_post_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/test_Lab150_basic_pytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/test_lab151_testcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex05_selenium_waits/test_015_waits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_02012025/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_02012025/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_02012025/seleniumbaqsic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex_08_selenium_action_windows_frames/test_lab_Selenium_Action.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/test_jan_selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/LAb0-34-ternary-operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lab-04-ifelse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Python_Operators/Lab034-operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024/Lab-057-tasl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024/Lab046-task-triangle-classi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024/Lab058-task-leap year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024/lab-45-maxnum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab056-loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab057-passand continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab067-builtin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab068-functiontipe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab-079-time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Decorators/Lab078-decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/Lab093_even odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda/List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict_loops/Lab0101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict_loops/Lab094_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict_loops/Lab095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict_loops/Lab096_dict_in_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict_loops/Lab097_multiple_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict_loops/Lab098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict_loops/Lab099_merge_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict_loops/Lab100_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict_loops/Lab102_IQ_Mac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict_loops/Lab111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops/Lab103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops/test_Lab186_pytest_learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_oops/Lab104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_oops/Lab105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/Dict-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/Dict-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/Oops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/append in tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/dict-03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/dict-04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/dict-05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/dict-06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/dict-07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/dict-two dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/dict_in_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/lamda function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/module2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/my_sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/practice 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Python/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB5xLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +102,9 @@
     &quot;accountId&quot;: &quot;71071db9-767e-4a9a-9f6d-a356206a841a&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -82,177 +116,240 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.LB_030.executor": "Run",
-    "Python.LB_031_task.executor": "Run",
-    "Python.LB_032_task.executor": "Run",
-    "Python.LB_040.executor": "Run",
-    "Python.Lab001_Python_HelloWorld.executor": "Run",
-    "Python.Lab002_Pythonbasic.executor": "Run",
-    "Python.Lab003_Python_basic.executor": "Run",
-    "Python.Lab004_Python_Key_Indentifiers.executor": "Run",
-    "Python.Lab005_Keywords.executor": "Run",
-    "Python.Lab007.executor": "Debug",
-    "Python.Lab045.executor": "Run",
-    "Python.Lab045_task.executor": "Run",
-    "Python.Lab046.executor": "Run",
-    "Python.Lab047.executor": "Run",
-    "Python.Lab048.executor": "Run",
-    "Python.Lab049.executor": "Debug",
-    "Python.Lab050.executor": "Run",
-    "Python.Lab051.executor": "Run",
-    "Python.Lab052_task_trianle.executor": "Run",
-    "Python.Lab054.executor": "Run",
-    "Python.Lab055.executor": "Run",
-    "Python.Lab056.executor": "Run",
-    "Python.Lab057.executor": "Run",
-    "Python.Lab058_part-functions1.executor": "Run",
-    "Python.Lab059.executor": "Run",
-    "Python.Lab060.executor": "Run",
-    "Python.Lab061.executor": "Run",
-    "Python.Lab062.executor": "Run",
-    "Python.Lab063_.executor": "Run",
-    "Python.Lab063_with_argument.executor": "Run",
-    "Python.Lab064.executor": "Run",
-    "Python.Lab065_function_type.executor": "Run",
-    "Python.Lab066_IQ.executor": "Run",
-    "Python.Lab067.executor": "Run",
-    "Python.Lab068.executor": "Run",
-    "Python.Lab069_function_n_variabels.executor": "Run",
-    "Python.Lab070_Local_variable.executor": "Run",
-    "Python.Lab071_inner_functions.executor": "Run",
-    "Python.Lab072_decorators.executor": "Run",
-    "Python.Lab073.executor": "Run",
-    "Python.Lab074_without_deco.executor": "Run",
-    "Python.Lab075.executor": "Run",
-    "Python.Lab080.executor": "Run",
-    "Python.Lab081.executor": "Run",
-    "Python.Lab083.executor": "Run",
-    "Python.Lab084.executor": "Run",
-    "Python.Lab085.executor": "Run",
-    "Python.Lab086_list.executor": "Run",
-    "Python.Lab087.executor": "Run",
-    "Python.Lab088.executor": "Run",
-    "Python.Lab089tuple.executor": "Run",
-    "Python.Lab090.executor": "Run",
-    "Python.Lab091.executor": "Run",
-    "Python.Lab092.executor": "Run",
-    "Python.Lab093_set.executor": "Run",
-    "Python.Lab53_task.executor": "Run",
-    "Python.Lb008_dynamically_type.executor": "Run",
-    "Python.Lb009.executor": "Run",
-    "Python.Lb010.executor": "Run",
-    "Python.Lb011.executor": "Run",
-    "Python.Lb012.executor": "Run",
-    "Python.Lb013.executor": "Run",
-    "Python.Lb014.executor": "Run",
-    "Python.Lb015.executor": "Run",
-    "Python.Lb016.executor": "Run",
-    "Python.Lb017.executor": "Run",
-    "Python.Lb018.executor": "Run",
-    "Python.Lb019.executor": "Run",
-    "Python.Lb020.executor": "Run",
-    "Python.Lb021.executor": "Run",
-    "Python.Lb022.executor": "Run",
-    "Python.Lb023.executor": "Run",
-    "Python.Lb024.executor": "Debug",
-    "Python.Lb025.executor": "Run",
-    "Python.Lb026.executor": "Run",
-    "Python.Lb028.executor": "Run",
-    "Python.Lb_027.executor": "Run",
-    "Python.Lb_028.executor": "Run",
-    "Python.Lb_029.executor": "Run",
-    "Python.Lb_032.executor": "Run",
-    "Python.Lb_033_task.executor": "Run",
-    "Python.Lb_034.executor": "Run",
-    "Python.Lb_035.executor": "Run",
-    "Python.Lb_036.executor": "Run",
-    "Python.Lb_037.executor": "Run",
-    "Python.Lb_038.executor": "Run",
-    "Python.Lb_039.executor": "Run",
-    "Python.Lb_041.executor": "Run",
-    "Python.Lb_042.executor": "Run",
-    "Python.Lb_043.executor": "Run",
-    "Python.Lb_044.executor": "Run",
-    "Python._pydev_execfile.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for Jan.test_jan_selenium.test_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for jan_selenium.test_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for selenium.test_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for seleniumbaqsic.test_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab150_basic_pytest.test_method.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab150_basic_pytest.test_testcase1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab150_basic_pytest.test_testcase2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab186_pytest_learning.test_method2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_jan_selenium.test_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab053_post_request.test_create_booking_positive_tc1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Lab-079-time.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in selenium.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in seleniumbaqsic.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab187_pytest_learning.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dict-02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LAb0-34-ternary-operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LB_030.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LB_031_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LB_032_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LB_040.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab-04-ifelse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab-057-tasl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001_Python_HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002_Pythonbasic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_Python_basic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004_Python_Key_Indentifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005_Keywords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab034-operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab045.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab045_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab046-task-triangle-classi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab046.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab047.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab048.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab049.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab050.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab051.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab052_task_trianle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab054.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab055.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab056-loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab056.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab057-passand continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab057.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab058-task-leap year.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab058_part-functions1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab059.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab060.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab061.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab062.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab063_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab063_with_argument.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab064.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab065_function_type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab066_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab067-builtin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab067.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab068-functiontipe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab068.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab069_function_n_variabels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab070_Local_variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab071_inner_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab072_decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab073.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab074_without_deco.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab075.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab078-decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab080.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab081.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab083.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab084.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab085.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab086_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab087.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab088.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab089tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab090.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab091.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab092.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab093_even odd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab093_set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab104.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab105.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab111.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab53_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb008_dynamically_type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_033_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_034.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_035.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_036.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_037.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_038.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_039.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_041.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_042.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_043.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lb_044.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List.executor&quot;: &quot;Run&quot;,
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.append in tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict-03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict-04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict-05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict-06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict-07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict-two dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict_in_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab-45-maxnum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lamda function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selenium.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nikhi/PycharmProjects/PyATB5xLearning/Dec/ex_31122024&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Lab003_Python_basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nikhi\PycharmProjects\PyATB5xLearning\Dec\ex_31122024" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for Jan.test_jan_selenium.test_vwo_login">
+    <configuration name="Python tests for Jan.test_jan_selenium.test_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_11112024_Python_Basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_11112024_Python_Basic/Lab003_Python_basic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Jan.test_jan_selenium.test_vwo_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab057" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for selenium.test_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_16112024_Loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab057.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;selenium.test_vwo_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lb022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for seleniumbaqsic.test_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024_Python_Literals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex_02012025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024_Python_Literals/Lb022.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;seleniumbaqsic.test_vwo_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab186_pytest_learning.test_method2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_28112024_Oops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab186_pytest_learning.test_method2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_jan_selenium.test_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_jan_selenium.test_vwo_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab003_Python_basic" />
-        <item itemvalue="Python.Lab057" />
-        <item itemvalue="Python.Lb022" />
+        <item itemvalue="Python tests.Python tests for seleniumbaqsic.test_vwo_login" />
+        <item itemvalue="Python tests.Python tests for test_Lab186_pytest_learning.test_method2" />
+        <item itemvalue="Python tests.Python tests for Jan.test_jan_selenium.test_vwo_login" />
+        <item itemvalue="Python tests.Python tests for test_jan_selenium.test_vwo_login" />
+        <item itemvalue="Python tests.Python tests for selenium.test_vwo_login" />
       </list>
     </recent_temporary>
   </component>
@@ -310,6 +407,16 @@
           <url>file://$PROJECT_DIR$/Nov/ex_16112024_Loop/Lab048.py</url>
           <line>1</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practice/Python/List.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab066_IQ.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,0 +1,5 @@
+t=(34,67,88)
+my_list=list(t)
+my_list.append(56)
+t=tuple(my_list)
+print(t)
